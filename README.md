@@ -23,7 +23,7 @@ The Fitness Chatbot leverages a  comprehensive exercise database and the power o
 
 # Streamlit Deployment Link :
 
-Streamlit link : ([http://34.200.246.244:8503](https://fitness1.streamlit.app/)/)
+Streamlit link : ([http://34.200.246.244:8503]()/)
 
 # Screenshot of UI
 
@@ -33,7 +33,7 @@ Streamlit link : ([http://34.200.246.244:8503](https://fitness1.streamlit.app/)/
 
 1. **Clone the Repository:**
    ```bash
-   git clone (https://github.com/shubh-vedi/fitness_chatbot_LLM.git)
+   git clone ()
 
 2.  **cd Fitness-Chatbot
     ```bash
