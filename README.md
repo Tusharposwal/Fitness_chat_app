@@ -89,9 +89,6 @@ Streamlit link : ([http://34.200.246.244:8503]()/)
 
 * Run `sudo ufw allow 8501`
 
-## License
-
-[State your chosen license - MIT, Apache 2.0, etc.]
 
 ## Get Involved!
 
