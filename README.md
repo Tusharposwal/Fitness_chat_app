@@ -23,7 +23,7 @@ The Fitness Chatbot leverages a  comprehensive exercise database and the power o
 
 # Streamlit Deployment Link :
 
-Streamlit link : ([http://34.200.246.244:8503]()/)
+Streamlit link : ([https://fitnesschatapp.streamlit.app/]()/)
 
 # Screenshot of UI
 
